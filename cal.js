@@ -1,7 +1,6 @@
 //1. all numbers and operators therthan ac inside input with id = result when we click on it
 
-function display(num)
-{
+function display(num){
     result.value+=num
 
 }
